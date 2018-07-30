@@ -1,5 +1,5 @@
 # Compressed-String-Problem
-**Void CompressString(char[])** <br/>
+**void CompressString(char[])** <br/>
 
 Write a function that takes a string and if it finds more than one consecutive occurrences of a character in the string, it removes the extra occurrences.  For example:<br/>
 
