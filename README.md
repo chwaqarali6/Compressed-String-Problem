@@ -10,6 +10,6 @@ String: “aaaaaaa”<br/>
 String after compression: “a”<br/>
 
 String: “bbabbbbbcccddddddddddeffffg”<br/>
-String after Compression: “babcdefg”<br/>
+String after compression: “babcdefg”<br/>
 
 *Note: Do not use any extra string inside the function.*
